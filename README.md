@@ -4,3 +4,4 @@ This repository involves Machine Learning Algorithms in Python
   * Linear Regression
   
 - Classification
+- Clustering
